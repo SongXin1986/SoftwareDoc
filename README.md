@@ -1,3 +1,6 @@
 # SoftwareDoc
 include some software document
-demo file
+本文档包含所有常用计算机语言的学习资料
+1 Python
+2 Ruby
+3 Git
